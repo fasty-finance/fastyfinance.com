@@ -4,7 +4,7 @@ include 'header.php';?>
 <section class="section-banner-header">
 
 	
-		<img src="image/banner.jpg" class="img-responsive bannerhome" alt="banner-header">
+		<img src="image/ff/greenbonds_sstock.jpeg" class="img-responsive bannerhome" alt="banner-header">
 	
 		
 </section>
@@ -15,7 +15,7 @@ include 'header.php';?>
 				<div class="col-md-8 col-md-offset-2">
 					<div class="banner-content">
 						<!-- <h1>Lorem Ipsum</h1> -->
-						<p>We attempt to give you <br>the perfect solutions  for your financial needs </p>
+						<p>When all the doors are closed, you will find our’s open.</p>
 					</div>
 				</div>
 			</div>
@@ -46,6 +46,13 @@ include 'header.php';?>
 
 		  						<div class="form-group col-md-6 col-sm-12 col-xs-12">
 		    						<input type="email" name="email" class="form-control" placeholder="Enter Your Email Address" required>
+		  						</div>
+		  						<div class="form-group col-md-6 col-sm-12 col-xs-12">
+									<select class="form-control" name="business" id="">
+										<option value="" disabled selected>Select Occupation</option>
+										<option value="">Salaried</option>
+										<option value="">Self-Employed</option>
+									</select>
 		  						</div>
 
 		  						<div class="form-group col-md-6 col-sm-12 col-xs-12">

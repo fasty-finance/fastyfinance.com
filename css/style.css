@@ -8,6 +8,31 @@ html, body{
    font-family: 'Montserrat', sans-serif;
    font-size: 16px;
 }
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  /* background: grey; */
+  border: 2px solid #4caf50;
+}
+
+::-webkit-scrollbar-thumb {
+  background: radial-gradient(
+    89.69% 338.27% at 7.03% 42.87%,
+    #4caf50  0%,
+    rgb(29 116 32) 100%
+  );
+  /* border-radius: 8px; */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: radial-gradient(
+    89.69% 338.27% at 7.03% 42.87%,
+    rgb(29 116 32) 0%,
+    #4caf50 100%
+  );
+}
 
 h1, h2, h3, h4, h5, h6, p{
 font-family: 'Montserrat', sans-serif;
@@ -58,7 +83,8 @@ p{
     font-size: 18px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    background: #31b1ba;
+    background: #22ad36;
+    border-radius: 5px;
 }
 .customdropdown{
    background-color: #459d4a;
@@ -517,7 +543,9 @@ display: block;
     margin-top:50px; 
 }
 .section-footer{
-background:url(../image/image.jpg);
+background:url(../image/ff/savings.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
 }
 .sub-footer{
     padding-top:10px;

@@ -6,7 +6,7 @@
 			<div class="abtpg_banner-title">
 				<h2>Services</h2>
 				<img src="image/icon/line.png" class="img-responsive title_line" alt="line">
-				<p style="color:#fff;text-align: center;padding-top: 20px;"><i>We attempt to give you the perfect solutions for your financial needs</i></p>
+				<p style="color:#fff;text-align: center;padding-top: 20px;"><i>Money Strength is the cornerstone of our success.</i></p>
 			</div>
 	</div>
 </div>

@@ -218,7 +218,8 @@ width: 50%;
 @media screen and (min-width: 768px){
      #mobilesection1{
     padding: 70px 15px 15px 15px ;
-    background: linear-gradient(90deg, rgba(48,176,185,0.5830707282913166) 41%, rgba(31,69,112,0.5550595238095238) 80%);   
+    /* background: linear-gradient(90deg, #4caf4f41 41%, rgba(29, 116, 32, 0) 0%);  */
+
     }
 }
 /*footer section*/
